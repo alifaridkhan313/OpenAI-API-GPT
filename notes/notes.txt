@@ -1,0 +1,11 @@
+OpenAI API: OpenAI API is a cloud interface that allows users to access OpenAI's machine-learning models and send requests to them.
+API(Application Programming Interface): The API can be used for a variety of programming language tasks, such as: content generation, semantic search, translation, and sentiment analysis.
+Pre trained models: 
+    1. GPT-4
+    2. GPT-3.5
+    3. DALL.E
+    4. Whisper
+    5. Embeddings
+    6. Moderation
+
+Customizable AI models can be made using fine-tuning
