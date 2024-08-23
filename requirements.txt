@@ -1,4 +1,4 @@
 openai
 numpy 
 pandas 
-python-dotenv
+python-doten
